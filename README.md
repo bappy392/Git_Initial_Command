@@ -1,3 +1,5 @@
+Author- Mahmudul
+
 E-Commerce Platform – Full Stack Project
 A modern full-stack e-commerce application designed for seamless product browsing, secure checkout, and efficient order management. The platform supports user registration, authentication, product listing, cart functionality, payment gateway integration, and admin dashboards.
 
